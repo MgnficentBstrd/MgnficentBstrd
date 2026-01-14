@@ -1,7 +1,7 @@
 </div>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bb1stlow9fzmlmhkg0gbrrzje&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=710f2c&bar_color_cover=false" alt="spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bb1stlow9fzmlmhkg0gbrrzje&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=c93d0e&bar_color_cover=false" alt="spotify-github-profile">
   </a>
 </p>
 
