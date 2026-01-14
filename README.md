@@ -1,8 +1,10 @@
 </div>
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
+  <p align="center"><img alt="" src="https://i.postimg.cc/Jz9S1Ww7/tumblr_6f85e53790fd1fdef1e47e74116a9f73_6d02455e_2048_Copie.png" /></p>
+  <p align="center"><a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bb1stlow9fzmlmhkg0gbrrzje&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=c93d0e&bar_color_cover=false" alt="spotify-github-profile">
   </a>
+  <p align="center"><img alt="" src="https://i.postimg.cc/kgkLndrn/tumblr_6f85e53790fd1fdef1e47e74116a9f73_6d02455e_2048.png" /></p>
 </p>
 
 <div align="center"> 
